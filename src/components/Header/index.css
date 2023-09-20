@@ -1,0 +1,97 @@
+.background {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 1%;
+  padding-right: 1%;
+}
+
+.image {
+  height: 50px;
+  width: 10%;
+}
+
+@media screen and (min-width: 768px) {
+  .image {
+    flex-grow: 1;
+  }
+}
+
+.para {
+  font-size: 10px;
+  font-weight: 450;
+  font-family: roboto;
+  margin: 2%;
+}
+
+.Lab {
+  color: #18a2d9;
+  font-size: 10px;
+  font-weight: 450;
+  font-family: roboto;
+}
+
+.buttons {
+  background-color: #00486c;
+  font-family: roboto;
+  color: #ffffff;
+  border-style: none;
+  border-radius: 5px;
+  font-size: 10px;
+  height: 30px;
+  margin: 1%;
+}
+
+.rightSide {
+  width: 10%;
+}
+
+.playStore {
+  display: flex;
+  align-items: center;
+  background-color: #333333;
+  font-family: roboto;
+  color: #ffffff;
+  border-style: none;
+  border-radius: 5px;
+  font-size: 10px;
+  height: 30px;
+}
+
+.text {
+  font-family: roboto;
+  color: #ffffffff;
+}
+
+.middleSection {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-shrink: -1;
+  width: 80%;
+}
+
+.googleIcon {
+  margin-right: 4%;
+}
+
+@media screen and (min-width: 768px) {
+  .para {
+    font-size: 20px;
+  }
+
+  .Lab {
+    font-size: 20px;
+  }
+
+  .buttons {
+    font-size: 12px;
+  }
+
+  .playStore {
+    font-size: 12px;
+  }
+}
+
+.background {
+}

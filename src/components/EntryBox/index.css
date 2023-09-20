@@ -1,0 +1,118 @@
+.entryBox {
+  background-image: linear-gradient(to right, #9eddff, #ffffff);
+  min-height: 100vh;
+  display: flex;
+}
+
+.leftSection {
+  width: 50%;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.topSection {
+  background-color: #ffffffff;
+  border-radius: 15px;
+  width: 80%;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding-left: 10%;
+}
+
+.topPara {
+  font-family: roboto;
+  text-align: center;
+}
+.rightImage {
+  width: 100%;
+}
+
+.rightBox {
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.userInput {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin-bottom: 15px;
+
+  width: 100%;
+}
+
+.userIcon {
+  margin-right: 1%;
+  font-size: 30px;
+  color: #18a2d9;
+}
+
+.inputbox {
+  border-style: none;
+  background-color: #e3e3e3;
+  border-radius: 5px;
+  height: 30px;
+  font-size: 12px;
+  padding-left: 3%;
+  /* flex-shrink: -1; */
+  width: 70%;
+}
+
+.checkBox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.textCheckbox {
+  font-family: roboto;
+  font-size: 8px;
+}
+
+.button {
+  background-color: #138ed1;
+  font-family: roboto;
+  border-radius: 5px;
+  color: #ffffff;
+  border-style: none;
+  font-size: 12px;
+  width: 40%;
+  height: 30px;
+  margin-left: 10%;
+}
+
+.checkBoxs {
+  height: 8px;
+}
+
+.details {
+}
+
+.details {
+}
+
+.details {
+}
+
+.details {
+}
+
+.details {
+}
+
+.details {
+}
+
+.details {
+}
+
+.details {
+}
+
+.details {
+}
